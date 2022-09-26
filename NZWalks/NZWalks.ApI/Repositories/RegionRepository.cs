@@ -1,8 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using NZWalks.ApI.Data;
-using NZWalks.ApI.Models.Domain;
+using NZWalks.API.Data;
+using NZWalks.API.Models.Domain;
 
-namespace NZWalks.ApI.Repositories
+namespace NZWalks.API.Repositories
 {
     public class RegionRepository : IRegionRepository
     {

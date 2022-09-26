@@ -1,4 +1,4 @@
-namespace NZWalks.ApI
+namespace NZWalks.API
 {
     public class WeatherForecast
     {

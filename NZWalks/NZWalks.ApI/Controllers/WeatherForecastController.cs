@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace NZWalks.ApI.Controllers
+namespace NZWalks.API.Controllers
 {
     [ApiController]
     [Route("[controller]")]

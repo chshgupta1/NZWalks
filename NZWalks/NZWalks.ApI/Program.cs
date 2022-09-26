@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
-using NZWalks.ApI.Data;
-using NZWalks.ApI.Repositories;
+using NZWalks.API.Data;
+using NZWalks.API.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 

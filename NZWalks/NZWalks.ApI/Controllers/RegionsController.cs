@@ -1,9 +1,9 @@
 ﻿using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
-using NZWalks.ApI.Models.Domain;
-using NZWalks.ApI.Repositories;
+using NZWalks.API.Models.Domain;
+using NZWalks.API.Repositories;
 
-namespace NZWalks.ApI.Controllers
+namespace NZWalks.API.Controllers
 {
     [ApiController]
     [Route("[controller]")]
